@@ -7,8 +7,8 @@ namespace Lab_3
     class Point
     {
 
-        int x;
-        int y;
+        private int x;
+        private int y;
         char sym;
 
         public void SetX(int x)
@@ -45,31 +45,31 @@ namespace Lab_3
             {
                 Point p = new Point();
                 int i;
-                int[] crdn_x = new int[5];
-                int[] crdn_y = new int[5];
-                char[] psym = new char[5];
-                
-                for (i = 0; i < 5; i++)
+                int[] crdn_x = new int[12];
+                int[] crdn_y = new int[12];
+                char[] psym = new char[12];
+
+                for (i = 0; i < 12; i++)
                 {
                     Console.WriteLine("Введите кооринаты x{0}:", i + 1);
                     crdn_x[i] = int.Parse(Console.ReadLine());
                 }
                 Console.Clear();
-                
-                for (i = 0; i < 5; i++)
+
+                for (i = 0; i < 12; i++)
                 {
                     Console.WriteLine("Введите кооринаты y{0}:", i + 1);
                     crdn_y[i] = int.Parse(Console.ReadLine());
                 }
                 Console.Clear();
-                
-                for (i = 0; i < 5; i++)
+
+                for (i = 0; i < 12; i++)
                 {
                     Console.WriteLine("Введите {0} символ:", i + 1);
                     psym[i] = char.Parse(Console.ReadLine());
                 }
                 Console.Clear();
-                for (i = 0; i < 5; i++)
+                for (i = 0; i < 12; i++)
                 {
                     p.SetX(crdn_x[i]);
                     p.SetY(crdn_y[i]);
@@ -81,9 +81,10 @@ namespace Lab_3
             catch (Exception ex)
             {
                 Console.Clear();
-                Console.WriteLine(ex);
+                Console.WriteLine("Ошибка: " + ex.Message);
                 Console.ReadLine();
             }
         }
     }
 }
+
