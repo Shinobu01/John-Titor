@@ -1,0 +1,7 @@
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Лабы\Программирование\2 курс\Lab4\Lab4\obj\Debug\Lab4.pdb
