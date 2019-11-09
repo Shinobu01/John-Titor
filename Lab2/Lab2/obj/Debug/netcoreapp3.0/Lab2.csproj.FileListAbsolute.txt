@@ -1,0 +1,11 @@
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\bin\Debug\netcoreapp3.0\Lab2.exe
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\bin\Debug\netcoreapp3.0\Lab2.deps.json
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\bin\Debug\netcoreapp3.0\Lab2.runtimeconfig.json
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\bin\Debug\netcoreapp3.0\Lab2.runtimeconfig.dev.json
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\bin\Debug\netcoreapp3.0\Lab2.dll
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\bin\Debug\netcoreapp3.0\Lab2.pdb
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\obj\Debug\netcoreapp3.0\Lab2.csprojAssemblyReference.cache
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\obj\Debug\netcoreapp3.0\Lab2.AssemblyInfoInputs.cache
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\obj\Debug\netcoreapp3.0\Lab2.AssemblyInfo.cs
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\obj\Debug\netcoreapp3.0\Lab2.dll
+D:\Лабы\Программирование\2 семестр\Lab2\Lab2\obj\Debug\netcoreapp3.0\Lab2.pdb
